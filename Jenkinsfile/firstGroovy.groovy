@@ -3,6 +3,7 @@ pipeline {
     agent { docker { image 'maven:3.6.0' } }
     stages {
         stage('version') {
+//            docker.image.inside
             steps {
                 sh 'mvn --version'
             }
