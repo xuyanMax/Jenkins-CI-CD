@@ -8,4 +8,9 @@ public class nangeTest {
     public void test() {
         Assert.assertNotEquals("b", "918");
     }
+
+    @Test
+    public void test1g() {
+        Assert.assertNotEquals("b", "918");
+    }
 }
