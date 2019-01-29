@@ -5,15 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hongxing</groupId>
-  <artifactId>hongxing-parent</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>hongxing-ceshi</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>hongxing-shaji</module>
-    <module>hongxing-nange</module>
-  </modules>
 
-  <name>hongxing-parent</name>
+  <name>hongxing-ceshi</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
